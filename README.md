@@ -13,6 +13,10 @@ A Discord bot that processes USDT payments and delivers digital product keys. Th
 - 🔐 **Admin Commands**: Admin-only commands for transaction management
 - ⏱️ **Anti-Spam Protection**: Cooldown system to prevent abuse
 
+![image](https://github.com/user-attachments/assets/457f6ed7-379d-49b9-bd68-c2407b318e8f)
+![image](https://github.com/user-attachments/assets/2526e00a-cb00-4503-8b6c-ce24e1ce8a33)
+
+
 ## Setup
 
 ### Prerequisites
